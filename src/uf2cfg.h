@@ -1,6 +1,6 @@
-#define PRODUCT_NAME "STM32 Board"
-#define BOARD_ID "STM32F103-generic-v0"
-#define INDEX_URL "https://maker.makecode.com"
+#define PRODUCT_NAME "ZhaQian"
+#define BOARD_ID "F103 UF2"
+#define INDEX_URL "https://github.com/mmoskal/uf2-stm32f103"
 #define UF2_NUM_BLOCKS 8000
 #define VOLUME_LABEL "STM32"
 // where the UF2 files are allowed to write data - we allow MBR, since it seems part of the softdevice .hex file
