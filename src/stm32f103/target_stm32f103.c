@@ -18,11 +18,11 @@
 
 /* Common STM32F103 target functions */
 
-#include <libopencm3/gd32/rcc.h>
-#include <libopencm3/gd32/gpio.h>
-#include <libopencm3/gd32/st_usbfs.h>
-#include <libopencm3/gd32/flash.h>
-#include <libopencm3/gd32/desig.h>
+#include <libopencm3/stm32/rcc.h>
+#include <libopencm3/stm32/gpio.h>
+#include <libopencm3/stm32/st_usbfs.h>
+#include <libopencm3/stm32/flash.h>
+#include <libopencm3/stm32/desig.h>
 #include <libopencm3/cm3/scb.h>
 
 #include "target.h"
